@@ -1,4 +1,7 @@
-# JDBC - DAO
+<h1>
+  <img align="center" alt="java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
+  JDBC - DAO
+</h1>
 
 ### O que É JDBC?
 JDBC significa Java™ EE Database Connectivity. No desenvolvimento Java EE, esta é uma tecnologia bem conhecida e comumente utilizada para a implementação da interação do banco de dados. JDBC é uma API de nível de chamada, o que significa que as instruções SQL são transmitidas como sequências para a API que, então, se encarrega de executá-las no RDMS. Consequentemente, o valor dessas sequências pode ser alterado no tempo de execução, tornando o JDBC dinâmico.
