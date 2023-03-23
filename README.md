@@ -1,6 +1,6 @@
 <h1>
-  <img align="center" alt="java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
   JDBC - DAO
+  <img align="stretch" alt="java" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
 </h1>
 
 ### O que É JDBC?
